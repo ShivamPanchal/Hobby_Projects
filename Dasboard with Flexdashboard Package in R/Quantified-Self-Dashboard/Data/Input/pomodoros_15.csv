@@ -1,0 +1,282 @@
+date,day_of_week,id,type,proj,proj_count,desc
+20151117,Tuesday,1.0,W,NA,NA,
+20151117,Tuesday,2.0,W,NA,NA,
+20151117,Tuesday,3.0,W,NA,NA,
+20151117,Tuesday,4.0,G,NA,NA,Listen to <u>Influence</u> by Robert Cialdini
+20151117,Tuesday,5.0,H,NA,NA,Walk
+20151117,Tuesday,6.0,G,NA,NA,Listen to <u>Influence</u> by Robert Cialdini
+20151117,Tuesday,7.0,H,NA,NA,Walk
+20151117,Tuesday,8.0,G,NA,NA,Personal organization
+20151117,Tuesday,9.0,G,NA,NA,Personal organization
+20151117,Tuesday,10.0,G,NA,NA,Personal organization
+20151118,Wednesday,1.0,W,Mixed,NA,Feedback for Mimi; start rechecking territory
+20151118,Wednesday,2.0,W,CAHOFiling2015,NA,Recheck territory
+20151118,Wednesday,3.0,W,CAHOFiling2015,NA,Recheck territory
+20151118,Wednesday,4.0,W,CAHOFiling2015,NA,Recheck territory; check large impacts
+20151118,Wednesday,5.0,W,CAHOFiling2015,NA,Update indicated WF Zone Rels
+20151118,Wednesday,6.0,G,NA,NA,Listening to Influence by Robert Cialdini
+20151118,Wednesday,7.0,G,NA,NA,Listening to Influence by Robert Cialdini; Blog post
+20151118,Wednesday,8.0,H,NA,NA,Walk
+20151118,Wednesday,9.0,G,NA,NA,Blog post
+20151118,Wednesday,10.0,G,NA,NA,Blog post
+20151119,Thursday,1.0,W,Mixed,NA,Getting organized
+20151119,Thursday,2.0,G,NA,NA,Listening to Influence by Robert Cialdini
+20151119,Thursday,3.0,H,NA,NA,Run
+20151119,Thursday,4.0,G,NA,NA,Reading East of Eden
+20151119,Thursday,5.0,W,Mixed,NA,QVC job aids
+20151119,Thursday,6.0,G,NA,NA,Listening to The Tim Ferriss Show podcast
+20151119,Thursday,7.0,H,NA,NA,Walk
+20151119,Thursday,8.0,W,Nepoer,NA,Help Brett with cat ratios and expense ratios
+20151119,Thursday,9.0,W,Nepoer,NA,Help Brett with cat ratios and expense ratios
+20151119,Thursday,10.0,W,Nepoer,NA,Help Brett with cat ratios and expense ratios
+20151120,Friday,1.0,W,Mixed,NA,Weekly Review
+20151120,Friday,2.0,W,Mixed,NA,Weekly Review
+20151120,Friday,3.0,G,NA,NA,Career Development
+20151120,Friday,4.0,W,Mixed,NA,Helping Jeff with R #R
+20151120,Friday,5.0,G,NA,NA,Listening to The Tim Ferriss Show podcast
+20151120,Friday,6.0,H,NA,NA,Walk
+20151120,Friday,7.0,W,2015YEFeedback,NA,Feedback for Adam
+20151120,Friday,8.0,W,2015YEFeedback,NA,Feedback for Adam
+20151120,Friday,9.0,W,2015YEFeedback,NA,Feedback for Adam and Lauren
+20151120,Friday,10.0,W,2015YEFeedback,NA,Feedback for Lauren
+20151120,Friday,11.0,W,2015YEFeedback,NA,Feedback for Lauren
+20151121,Saturday,1.0,G,NA,NA,Kaggle Titanic
+20151121,Saturday,2.0,G,NA,NA,Kaggle Titanic
+20151121,Saturday,3.0,G,NA,NA,Kaggle Titanic
+20151121,Saturday,4.0,G,NA,NA,Photography: The Art of Black and White Photography course
+20151121,Saturday,5.0,G,NA,NA,Photography: The Art of Black and White Photography course
+20151121,Saturday,6.0,G,NA,NA,Photography: The Art of Black and White Photography course
+20151122,Sunday,1.0,M,NA,NA,Misc. to-dos
+20151122,Sunday,2.0,M,NA,NA,Misc. to-dos
+20151122,Sunday,3.0,H,NA,NA,Walk
+20151122,Sunday,4.0,G,NA,NA,Photography
+20151122,Sunday,5.0,H,NA,NA,Walk
+20151122,Sunday,6.0,G,NA,NA,Photography
+20151123,Monday,1.0,W,Mixed,NA,Getting set up for the week; Helping Matthew
+20151123,Monday,2.0,W,Mixed,NA,Getting set up for the week; Helping Matthew
+20151123,Monday,3.0,G,NA,NA,Listening to The Tim Ferriss Show podcast
+20151123,Monday,4.0,H,NA,NA,Walk
+20151123,Monday,5.0,W,CAAutoSequential2016,1.0,Sequential Analysis
+20151123,Monday,6.0,W,CAAutoSequential2016,2.0,Sequential Analysis
+20151123,Monday,7.0,W,CAAutoSequential2016,3.0,Sequential Analysis
+20151123,Monday,8.0,G,NA,NA,Listening to The Tim Ferriss Show podcast
+20151123,Monday,9.0,H,NA,NA,Walk
+20151123,Monday,10.0,W,CAHOFiling2015,NA,Updating documentation
+20151123,Monday,11.0,W,CAHOFiling2015,NA,Updating documentation
+20151123,Monday,12.0,W,Nepoer,NA,Nepoer requests
+20151123,Monday,13.0,W,Nepoer,NA,Nepoer requests
+20151123,Monday,14.0,H,NA,NA,Walk
+20151123,Monday,15.0,G,NA,NA,Listening to The Tim Ferriss Show podcast
+20151124,Tuesday,1.0,W,Mixed,NA,Getting organized; Sequential Analysis
+20151124,Tuesday,2.0,W,CAAutoSequential2016,4.0,Sequential Analysis
+20151124,Tuesday,3.0,G,NA,NA,Reading All Involved by Ryan Gattis
+20151124,Tuesday,4.0,H,NA,NA,Walk
+20151124,Tuesday,5.0,W,2015YEFeedback,NA,Feedback for Ryan
+20151124,Tuesday,6.0,W,2015YEFeedback,NA,Feedback for Ryan; Feedback for Elizabeth
+20151124,Tuesday,7.0,W,CAAutoSequential2016,5.0,Sequential Analysis
+20151124,Tuesday,8.0,G,NA,NA,Listening to The Tim Ferriss Show podcast
+20151125,Wednesday,1.0,W,Mixed,NA,Getting set up for the day; Feedback for Elizabeth
+20151125,Wednesday,2.0,W,2015YEFeedback,NA,Feedback for Elizabeth
+20151125,Wednesday,3.0,W,CAAutoSequential2016,6.0,Auto Sequential
+20151125,Wednesday,4.0,W,CAAutoSequential2016,7.0,Auto Sequential
+20151125,Wednesday,5.0,W,CAAutoSequential2016,8.0,Auto Sequential
+20151125,Wednesday,6.0,W,CAAutoSequential2016,9.0,Auto Sequential
+20151125,Wednesday,7.0,G,NA,NA,Listening to The Tim Ferriss Show podcast
+20151125,Wednesday,8.0,H,NA,NA,Walk
+20151129,Sunday,1.0,M,NA,NA,Getting organized for the day
+20151129,Sunday,2.0,M,NA,NA,Hotel booking; cleaning up/organizing
+20151130,Monday,1.0,W,Mixed,NA,Getting organized and set up for the day
+20151130,Monday,2.0,W,Mixed,NA,Feedback for Matt; Planning work for the week
+20151130,Monday,3.0,W,Mixed,NA,Planning work for the week; Reasonability check SA programs results
+20151130,Monday,4.0,G,NA,NA,Listening to The Tim Ferriss Show podcast
+20151130,Monday,5.0,H,NA,NA,Walk
+20151130,Monday,6.0,W,CAAutoSequential2016,10.0,Reasonability check SA programs results
+20151130,Monday,7.0,W,CAAutoSequential2016,11.0,Reasonability check SA programs results
+20151130,Monday,8.0,W,CAAutoSequential2016,12.0,Reasonability check SA programs results; RE stuff
+20151130,Monday,9.0,G,NA,NA,Listening to Influence by Robert Cialdini
+20151130,Monday,10.0,H,NA,NA,Walk
+20151130,Monday,11.0,W,Mixed,NA,RE stuff; Trying to fill out VEEs; Checking Elizabeth's auto workbook
+20151130,Monday,12.0,W,CheckAutoCDIWorkbook,NA,Checking Elizabeth's auto workbook
+20151130,Monday,13.0,W,CheckAutoCDIWorkbook,NA,Checking Elizabeth's auto workbook
+20151130,Monday,14.0,G,NA,NA,Listening to Influence by Robert Cialdini
+20151130,Monday,15.0,H,NA,NA,Walk
+20151201,Tuesday,1.0,W,Mixed,NA,Getting set up for the day; RE stuff
+20151201,Tuesday,2.0,W,Mixed,NA,RE stuff; Answering a Nepoer question; Starting some SA code
+20151201,Tuesday,3.0,G,NA,NA,Listening to The Tim Ferriss Show podcast
+20151201,Tuesday,4.0,H,NA,NA,Walk
+20151201,Tuesday,5.0,W,CAAutoSequential2016,13.0,Auto Sequential
+20151201,Tuesday,6.0,W,CAAutoSequential2016,14.0,Auto Sequential
+20151201,Tuesday,7.0,W,CAAutoSequential2016,15.0,Auto Sequential
+20151201,Tuesday,8.0,W,CAAutoSequential2016,16.0,Auto Sequential
+20151201,Tuesday,9.0,W,CAAutoSequential2016,17.0,Auto Sequential
+20151201,Tuesday,10.0,W,CAAutoSequential2016,18.0,Auto Sequential
+20151201,Tuesday,11.0,W,CAAutoSequential2016,19.0,Auto Sequential
+20151201,Tuesday,12.0,W,CAAutoSequential2016,20.0,Auto Sequential
+20151202,Wednesday,1.0,W,Mixed,NA,Getting set up for the day; RE Stuff; Pomodoro research/fine-tuning
+20151202,Wednesday,2.0,W,Mixed,NA,Pomodoro research/fine-tuning
+20151202,Wednesday,3.0,W,CAAutoSequential2016,20.0,Investigating CRLing
+20151202,Wednesday,4.0,G,NA,NA,Listening to The Tim Ferriss Show podcast and Influence by Robert Cialdini
+20151202,Wednesday,5.0,H,NA,NA,Walk
+20151202,Wednesday,6.0,W,Mixed,NA,VEE stuff; RE workload survey; Auto Sequential CRL investigation
+20151202,Wednesday,7.0,W,CAAutoSequential2016,21.0,Investigating CRLing
+20151202,Wednesday,8.0,W,CAAutoSequential2016,22.0,Investigating CRLing
+20151202,Wednesday,9.0,G,NA,NA,Listening to Influence by Robert Cialdini
+20151202,Wednesday,10.0,G,NA,NA,Listening to Influence by Robert Cialdini
+20151202,Wednesday,11.0,W,CAAutoSequential2016,23.0,Investigating CRLing
+20151202,Wednesday,12.0,W,CAAutoSequential2016,24.0,Investigating CRLing
+20151202,Wednesday,13.0,W,CAAutoSequential2016,25.0,Investigating CRLing
+20151203,Thursday,1.0,W,CAAutoSequential2016,26.0,Checking CRL Factors
+20151203,Thursday,2.0,G,NA,NA,Listening to Influence by Robert Cialdini
+20151203,Thursday,3.0,H,NA,NA,Walk
+20151203,Thursday,4.0,W,Mixed,NA,Helping Mimi with communication to agents; Auto Sequential: Checking CRL Factors
+20151203,Thursday,5.0,G,NA,NA,Listening to Influence by Robert Cialdini
+20151203,Thursday,6.0,H,NA,NA,Walk
+20151203,Thursday,7.0,W,CAAutoSequential2016,27.0,Checking CRL Factors
+20151204,Friday,1.0,W,Mixed,NA,Getting set up for the day; Sequential Analysis
+20151204,Friday,2.0,W,CAAutoSequential2016,28.0,Investigating PGS/EGR
+20151204,Friday,3.0,G,NA,NA,Reading Ready Player One
+20151204,Friday,4.0,H,NA,NA,Run
+20151204,Friday,5.0,W,Mixed,NA,Answering a random question; Sequential Analysis
+20151204,Friday,6.0,W,CAAutoSequential2016,29.0,Checking factors
+20151204,Friday,7.0,W,CAAutoSequential2016,30.0,Checking factors and documenting
+20151204,Friday,8.0,W,CAAutoSequential2016,31.0,Checking factors and documenting
+20151204,Friday,9.0,W,CAAutoSequential2016,32.0,Checking factors and documenting
+20151204,Friday,10.0,W,CAAutoSequential2016,33.0,Checking factors and documenting
+20151204,Friday,11.0,W,CAAutoSequential2016,34.0,Checking factors and documenting
+20151204,Friday,12.0,W,CAAutoSequential2016,35.0,Documenting/drafting an email to Megan
+20151205,Saturday,1.0,W,Mixed,NA,Not recorded
+20151205,Saturday,2.0,H,NA,NA,Walk
+20151205,Saturday,3.0,H,NA,NA,Walk
+20151206,Sunday,1.0,W,Mixed,NA,PTO; Sequential Analysis
+20151206,Sunday,2.0,W,CAAutoSequential2016,36.0,Re-running data prep step
+20151206,Sunday,3.0,H,NA,NA,Walk
+20151206,Sunday,4.0,H,NA,NA,Walk
+20151206,Sunday,5.0,H,NA,NA,Walk
+20151207,Monday,1.0,W,Mixed,NA,Getting set up for the day
+20151207,Monday,2.0,W,CAAutoSequential2016,37.0,Checking CRL results
+20151207,Monday,3.0,W,Mixed,NA,Running CRL stuff for SA; Planning out week
+20151207,Monday,4.0,G,NA,NA,Listening to The Tim Ferriss Show podcast
+20151207,Monday,5.0,H,NA,NA,Walk
+20151207,Monday,6.0,W,CheckAutoCDIWorkbook,NA,https://workflowy.com/#/c27c7c7e27a5
+20151207,Monday,7.0,W,Mixed,NA,Sequential Analysis and checking Elizabeth's workbook https://workflowy.com/#/c27c7c7e27a5
+20151207,Monday,8.0,G,NA,NA,Listening to The Tim Ferriss Show podcast
+20151207,Monday,9.0,G,NA,NA,Listening to The Tim Ferriss Show podcast
+20151207,Monday,10.0,W,CAAutoSequential2016,38.0,Checking CRL factors
+20151208,Tuesday,1.0,W,Mixed,NA,Troubleshooting R servers; Planning timeline for SA
+20151208,Tuesday,2.0,W,CAAutoSequential2016,39.0,Planning timeline
+20151208,Tuesday,3.0,W,CAAutoSequential2016,40.0,Running a 100k SA for testing
+20151209,Wednesday,1.0,W,Mixed,NA,Getting set up for the day
+20151209,Wednesday,2.0,W,CheckAutoCDIWorkbook,NA,https://workflowy.com/#/9336311d30f6
+20151209,Wednesday,3.0,G,NA,NA,Listening to The Tim Ferriss Show podcast
+20151209,Wednesday,4.0,H,NA,NA,Walk
+20151209,Wednesday,5.0,W,CheckAutoCDIWorkbook,NA,https://workflowy.com/#/9336311d30f6
+20151209,Wednesday,6.0,G,NA,NA,Listening to The Tim Ferriss Show podcast
+20151209,Wednesday,7.0,W,Mixed,NA,Helping Jeff with R #R
+20151209,Wednesday,8.0,W,Mixed,NA,Helping Jeff with R #R
+20151209,Wednesday,9.0,W,Mixed,NA,Helping Jeff with R #R
+20151210,Thursday,1.0,W,Mixed,NA,Getting set up for the day
+20151210,Thursday,2.0,G,NA,NA,Listening to The Tim Ferriss Show podcast and Influence by Robert Cialdini
+20151210,Thursday,3.0,H,NA,NA,Walk
+20151210,Thursday,4.0,W,Nepoer,NA,Making a flat file for others to use
+20151210,Thursday,5.0,W,Mixed,NA,Nepoer (making a flat file for others to use) and SA (running 100k through SA)
+20151210,Thursday,6.0,W,CAAutoSequential2016,41.0,Running 100k through SA
+20151210,Thursday,7.0,W,CAAutoSequential2016,42.0,Running 100k through SA
+20151210,Thursday,8.0,W,CAAutoSequential2016,43.0,Running 100k through SA
+20151210,Thursday,9.0,W,CAAutoSequential2016,44.0,Running 100k through SA
+20151210,Thursday,10.0,W,CAAutoSequential2016,45.0,Running 100k through SA
+20151210,Thursday,11.0,W,Mixed,NA,Putting together a SAS vs. R comparison regarding join efficiency #R #SAS
+20151210,Thursday,12.0,W,Mixed,NA,Putting together a SAS vs. R comparison regarding join efficiency; Running 100k SA #R #SAS
+20151210,Thursday,13.0,G,NA,NA,Photography
+20151210,Thursday,14.0,H,NA,NA,Walk
+20151210,Thursday,15.0,G,NA,NA,Photography
+20151210,Thursday,16.0,H,NA,NA,Walk
+20151211,Friday,1.0,W,Mixed,NA,"Getting set up for the day, SA exporting"
+20151211,Friday,2.0,W,CAAutoSequential2016,46.0,Exporting
+20151211,Friday,3.0,W,CAAutoSequential2016,47.0,Exporting
+20151211,Friday,4.0,W,Mixed,NA,Replying to Grace
+20151211,Friday,5.0,W,Mixed,NA,Replying to Grace
+20151211,Friday,6.0,W,Mixed,NA,Replying to Grace
+20151211,Friday,7.0,W,Mixed,NA,Replying to Josh
+20151211,Friday,8.0,G,NA,NA,Listening to Influence by Robert Cialdini
+20151211,Friday,9.0,G,NA,NA,Listening to Influence by Robert Cialdini
+20151214,Monday,1.0,W,Mixed,NA,Getting set up for the day
+20151214,Monday,2.0,W,Mixed,NA,RE stuff; Email update to Megan
+20151214,Monday,3.0,W,Mixed,NA,Planning work for the week; SA 100k
+20151214,Monday,4.0,G,NA,NA,Listening to Bold
+20151214,Monday,5.0,H,NA,NA,Walk
+20151214,Monday,6.0,W,CAAutoSequential2016,48.0,Run 100k through all steps
+20151214,Monday,7.0,W,CAAutoSequential2016,49.0,Run 100k through all steps
+20151214,Monday,8.0,W,CAAutoSequential2016,50.0,Run 100k through all steps
+20151214,Monday,9.0,G,NA,NA,Listening to Bold
+20151214,Monday,10.0,H,NA,NA,Walk
+20151214,Monday,11.0,G,NA,NA,Listening to Bold and reading 4HB
+20151214,Monday,12.0,W,CAAutoSequential2016,51.0,Run 100k through all steps
+20151214,Monday,13.0,W,CAAutoSequential2016,52.0,Run 100k through all steps
+20151214,Monday,14.0,W,CAAutoSequential2016,NA,Run 100k through all steps
+20151214,Monday,15.0,W,CAAutoSequential2016,53.0,Run 100k through all steps
+20151214,Monday,16.0,W,CAAutoSequential2016,54.0,Run 100k through all steps
+20151214,Monday,17.0,W,CAAutoSequential2016,55.0,Run 100k through all steps
+20151215,Tuesday,1.0,W,Mixed,NA,Getting set up for the day
+20151215,Tuesday,2.0,W,CAAutoSequential2016,56.0,Run 100k test
+20151215,Tuesday,3.0,W,CAAutoSequential2016,57.0,Run 100k test
+20151215,Tuesday,4.0,W,CAAutoSequential2016,58.0,Run 100k test
+20151215,Tuesday,5.0,M,NA,NA,Researching Joshua Tree trip
+20151215,Tuesday,6.0,M,NA,NA,Researching Joshua Tree trip
+20151215,Tuesday,7.0,M,NA,NA,Researching Joshua Tree trip
+20151215,Tuesday,8.0,G,NA,NA,Listening to The Tim Ferriss Show podcast
+20151215,Tuesday,9.0,G,NA,NA,Reading the Four Hour Body
+20151216,Wednesday,1.0,W,Mixed,NA,Getting set up for the day; RE Stuff
+20151216,Wednesday,2.0,W,CAAutoSequential2016,59.0,Run 100k test
+20151216,Wednesday,3.0,W,CAAutoSequential2016,60.0,Run 100k test
+20151216,Wednesday,4.0,W,CAAutoSequential2016,61.0,Run 100k test
+20151216,Wednesday,5.0,H,NA,NA,Walk
+20151216,Wednesday,6.0,W,CAAutoSequential2016,62.0,Run 100k test; Incorporate teenSMART
+20151216,Wednesday,7.0,G,NA,NA,Listening to The Tim Ferriss Show podcast
+20151216,Wednesday,8.0,H,NA,NA,Walk
+20151216,Wednesday,9.0,G,NA,NA,Listening to The Tim Ferriss Show podcast
+20151216,Wednesday,10.0,W,CAAutoSequential2016,63.0,Incorporate teenSMART
+20151216,Wednesday,11.0,W,CAAutoSequential2016,64.0,Organize questions for meeting with Megan on Friday
+20151216,Wednesday,12.0,W,CAAutoSequential2016,65.0,Investigate EGR
+20151216,Wednesday,13.0,W,CAAutoSequential2016,66.0,Investigate EGR
+20151217,Thursday,1.0,W,Mixed,NA,Getting set up for the day
+20151217,Thursday,2.0,W,CAAutoSequential2016,67.0,Run big data step after teenSMART fix
+20151217,Thursday,3.0,G,NA,NA,Listening to The Tim Ferriss Show podcast
+20151217,Thursday,4.0,H,NA,NA,Walk
+20151223,Wednesday,1.0,W,Mixed,NA,Getting set up for the day
+20151223,Wednesday,2.0,W,Mixed,NA,Emails; Helping Noam
+20151223,Wednesday,3.0,W,CAHOFiling2015,NA,Thinking through the modeled WF results
+20151223,Wednesday,4.0,W,CAHOFiling2015,NA,Checking Elizabeth's CDI cat reconciliation
+20151223,Wednesday,5.0,G,NA,NA,Listening to Bold
+20151223,Wednesday,6.0,H,NA,NA,Walk
+20151223,Wednesday,7.0,G,NA,NA,Listening to The Black Swan
+20151223,Wednesday,8.0,W,Mixed,NA,CA HO Filing: Checking Elizabeth's CDI cat reconciliation; Helping Yuwen
+20151223,Wednesday,9.0,W,CAHOFiling2015,NA,Checking Elizabeth's CDI cat reconciliation
+20151223,Wednesday,10.0,W,CAHOFiling2015,NA,Investigate additive method for non-cat
+20151223,Wednesday,11.0,W,CAHOFiling2015,NA,Investigate additive method for non-cat
+20151223,Wednesday,12.0,G,DataCampIntroToR,NA,Final lessons #R
+20151224,Thursday,1.0,M,NA,NA,Wrapping presents
+20151224,Thursday,2.0,G,NA,NA,Photography Editing
+20151224,Thursday,3.0,G,NA,NA,Photography Editing
+20151226,Saturday,1.0,M,NA,NA,Writing photo of the week
+20151228,Monday,1.0,G,8760Hours-EOY2015,NA,"Yearly Review: 8,760 Hours: https://workflowy.com/#/727261c8d36c"
+20151228,Monday,2.0,G,8760Hours-EOY2015,NA,"Yearly Review: 8,760 Hours: https://workflowy.com/#/727261c8d36c"
+20151228,Monday,3.0,G,NA,NA,Listening to Serial
+20151228,Monday,4.0,H,NA,NA,Walk
+20151228,Monday,5.0,G,8760Hours-EOY2015,NA,"Yearly Review: 8,760 Hours: https://workflowy.com/#/727261c8d36c"
+20151228,Monday,6.0,G,8760Hours-EOY2015,NA,"Yearly Review: 8,760 Hours: https://workflowy.com/#/727261c8d36c"
+20151228,Monday,7.0,G,NA,NA,Listening to Serial
+20151228,Monday,8.0,H,NA,NA,Walk
+20151228,Monday,9.0,G,8760Hours-EOY2015,NA,"Yearly Review: 8,760 Hours: https://workflowy.com/#/727261c8d36c"
+20151228,Monday,10.0,G,8760Hours-EOY2015,NA,"Yearly Review: 8,760 Hours: https://workflowy.com/#/727261c8d36c"
+20151228,Monday,11.0,G,8760Hours-EOY2015,NA,"Yearly Review: 8,760 Hours: https://workflowy.com/#/727261c8d36c"
+20151229,Tuesday,1.0,G,8760Hours-EOY2015,NA,"Yearly Review: 8,760 Hours: https://workflowy.com/#/727261c8d36c"
+20151230,Wednesday,1.0,G,NA,NA,Listening to How to Win Friends and Influence People by Dale Carnegie
+20151230,Wednesday,2.0,G,NA,NA,Listening to How to Win Friends and Influence People by Dale Carnegie
+20151230,Wednesday,3.0,G,NA,NA,Listening to How to Win Friends and Influence People by Dale Carnegie
+20151230,Wednesday,4.0,G,NA,NA,Listening to How to Win Friends and Influence People by Dale Carnegie
+20151230,Wednesday,5.0,G,NA,NA,Listening to How to Win Friends and Influence People by Dale Carnegie
+20151230,Wednesday,6.0,G,NA,NA,Listening to How to Win Friends and Influence People by Dale Carnegie
+20151230,Wednesday,7.0,G,NA,NA,Listening to How to Win Friends and Influence People by Dale Carnegie
+20151230,Wednesday,8.0,G,NA,NA,Listening to How to Win Friends and Influence People by Dale Carnegie
+20151230,Wednesday,9.0,G,NA,NA,Listening to How to Win Friends and Influence People by Dale Carnegie
+20151230,Wednesday,10.0,G,NA,NA,Listening to How to Win Friends and Influence People by Dale Carnegie
