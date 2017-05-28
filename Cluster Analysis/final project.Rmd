@@ -1,0 +1,100 @@
+
+
+
+
+
+The file `project_data.rda` contains the following data frames, which all pertain to global health statistics
+
+  + `pop.by.age`: contains the population for 138 countries, for the years 1950-2050 (using projected populations after 2007), broken up into three age groups (0-19 years, 20-60 years, and 61+ years)
+  + `gdp.lifeExp`: the per capita GDP (a measure of economic wealth) and life expectancy for these countries, for the years 1952-2007
+  + `gdp.lifeExp.small`: a small subset of the years in `gdp.lifeExp`
+  + `continents`: the continent of each country in the previous datasets
+
+This data was made famous by Hans Rosling (1948-2017) and his Gapminder Foundation. You can see one of his videos here: https://www.youtube.com/watch?v=BPt8ElTQMIg
+
+## Part 1
+
+The file `part1.pdf` shows how the age demographics are changing over time for all 138 countries in the data set, where we have used the `Mclust` clustering algorithm to divide the countries up into four groups (note that the clusters differ slightly from the continents):
+
+  + group 1: a group whose age demographics are younger than the other countries, for the entire time span
+  + group 4: a group whose age demographics are older than the other countries, particularly in later years
+  + groups 2 and 3: these groups initially are young and look more like group 1 in 1950, but in later years their demographics shift towards group 4. This might be due to improvements in living quality for these countries. Group 3 shifts further than group 2. 
+
+Your first task is to recreate this plot (or create a similar one), using the data set `pop.by.age` which is in the file `project_data.rda`.
+
+
+
+```{r}
+# load the dataset
+load('project_data.rda')
+# your work goes here (but you can make more R chunks if it helps to break up the discussion)
+#install.packages("mclust")
+#install.packages("reshape2")
+library(mclust)
+library(reshape2)
+library(ggplot2)
+pop_Age = pop.by.age
+df1 = na.omit(pop.by.age)
+colnames(df1)
+# converting the wide frame dataframe to long frame dataframe with melt function of reshape2 package
+
+
+
+
+
+
+df2 = melt(df1, id.vars = c("country", "continent", "year"))
+head(df2)
+colnames(df2) = c("country", "continent", "year","age","value")
+head(df2)
+
+# Analyzing the clpairs for the dataframe
+X = df1[,2:4]
+class = df1$continent
+table(class)
+clp = clPairs(X, class, lower.panel = NULL)
+clPairsLegend(0.1, 0.3, clp$class, col = clp$col, pch = clp$pch)
+
+# analyzing the bootstrap inference classification for the dataset
+BIC = mclustBIC(X)
+BIC
+
+# using the mclust package for clustering and visualizing the results
+
+fit = Mclust(df2)
+plot(fit, what = 'classification')
+summary(plot)
+
+g <- ggplot(data = df2)
+```
+
+## Part 2
+
+Create a similar plot as in part 1, but for the `gdp.lifeExp` dataset. Use clustering to divide the countries into groups which had similar changes to life expectancy and GDP over time. For each cluster, comment on how life expectancy and GDP is changing over time.
+
+```{r}
+# your work goes here (but you can make more R chunks if it helps to break up the discussion)
+gdp_LE = gdp.lifeExp
+df3 = na.omit(gdp.lifeExp)
+head(df3)
+colnames(df3)
+
+# Analyzing the clpairs for the dataframe
+X = df3[,2:4]
+class = df3$continent
+table(class)
+clp = clPairs(X, class, lower.panel = NULL)
+clPairsLegend(0.1, 0.3, clp$class, col = clp$col, pch = clp$pch)
+# analyzing the bootstrap inference classification for the dataset
+BIC = mclustBIC(X)
+BIC
+plot(X, pch = ifelse(class == "normal", 1, 16))
+mod <- Mclust(X, G = 2, modelName = "VVV")
+summary(mod, parameters = TRUE)
+plot(mod, what = "classification", main = FALSE)
+mod = Mclust(df3)
+summary(mod)
+plot(mod, what = "classification")
+
+```
+
