@@ -1,0 +1,26 @@
+https://myapps.shu.ac.uk/SHU/#
+Username: b6035775
+Password: Vit837748
+
+choose SAS 9.2
+then
+SAS Enterprise Miner
+
+Login to SAS enterprise miner 6.2
+
+Username: b6035775
+Password: Vit837748
+
+server: diyag
+
+Library: Czech bank
+The file is already created
+
+but just in case is right click on 'data sources'
+create data source
+source - sas table
+table browse
+Czechb file - double click
+then open the file - Czech16
+
+We agreed on the analyses of questions 1 to 9.
